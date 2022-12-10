@@ -1484,7 +1484,7 @@ address {
 .decor__image-ibg_1 {
   inset: 13.7037037037% auto auto 3.9583333333%;
   inline-size: 14.0625%;
-  aspect-ratio: 1;
+  aspect-ratio: 1/1;
   -webkit-transform: translate(calc(var(--decor-translate-x) * -100%), calc(var(--decor-translate-y) * -100%)) rotate(calc(var(--decor-translate-x) * 100deg)) scale(calc(var(--decor-translate-y) + 1));
   -ms-transform: translate(calc(var(--decor-translate-x) * -100%), calc(var(--decor-translate-y) * -100%)) rotate(calc(var(--decor-translate-x) * 100deg)) scale(calc(var(--decor-translate-y) + 1));
   transform: translate(calc(var(--decor-translate-x) * -100%), calc(var(--decor-translate-y) * -100%)) rotate(calc(var(--decor-translate-x) * 100deg)) scale(calc(var(--decor-translate-y) + 1));
@@ -1502,7 +1502,7 @@ address {
 .decor__image-ibg_3 {
   inset: 23.1481481481% -3.9583333333% auto auto;
   inline-size: 14.2708333333%;
-  aspect-ratio: 1;
+  aspect-ratio: 1/1;
   -webkit-transform: translate(calc(var(--decor-translate-x) * 100%), calc(var(--decor-translate-y) * -100%)) rotate(calc(var(--decor-translate-x) * -100deg));
   -ms-transform: translate(calc(var(--decor-translate-x) * 100%), calc(var(--decor-translate-y) * -100%)) rotate(calc(var(--decor-translate-x) * -100deg));
   transform: translate(calc(var(--decor-translate-x) * 100%), calc(var(--decor-translate-y) * -100%)) rotate(calc(var(--decor-translate-x) * -100deg));
