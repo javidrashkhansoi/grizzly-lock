@@ -4623,10 +4623,6 @@ body.lock {
     display: none;
   }
 
-  .home-banner {
-    min-block-size: calc(100vh - var(--header-block-size));
-  }
-
   .home-banner__image-ibg::after {
     content: "";
     position: absolute;
@@ -4862,6 +4858,10 @@ body.lock {
     -webkit-box-align: start;
     -ms-flex-align: start;
     align-items: start;
+  }
+
+  .home-banner {
+    min-block-size: calc(100vh - var(--header-block-size));
   }
 
   .home-why-us__content {
