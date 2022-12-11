@@ -6,9 +6,6 @@
   border: 0;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
 }
 
 *::before,
@@ -2095,9 +2092,9 @@ body.lock {
 }
 
 .buttons-header__button {
-  max-block-size: 5000em;
   -webkit-margin-start: auto;
   margin-inline-start: auto;
+  line-height: 37px;
 }
 
 .buttons-header.show-icon .buttons-header__button {
